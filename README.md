@@ -17,7 +17,7 @@
 ## How to Use  
 
 1. **Visit the FileFlip Website**  
-   Open your browser and navigate to [FileFlip]().  
+   Open your browser and navigate to [FileFlip](https://fileflip.netlify.app/).  
 
 2. **Upload Your File**  
    Drag and drop your file or click the upload button to select it from your device.  
